@@ -1,0 +1,6 @@
+
+  My idea for the class project, inspired by my friend’s love of Hawaii, is an interactable shiny app detailing different changes in coral reefs over time. This app would include a slider that could be moved in order to see changes to different aspects of a reef over time. Things that could be shown are: a map of coral growth/coral bleaching, interactable widgets on marine life populations, water temperature, and anything else I can find data on. 
+  
+  Coral reefs have been greatly affected by climate change and over-fishing, so I think it related well to the theme of “modern problems”. In fact, a lot of marine life was positively impacted by the reduced commercialism that came from the pandemic, so there may even be some trends there. That would be interesting to explore in itself.
+  
+  I’ve worked with visualizations in R a fair amount for an internship, but I’ve never created a shiny app before. Learning my way around that interface, as well as finding appropriate data, will probably be my biggest challenges when it comes to this project. This project will probably include a fair amount of data cleaning, and will help me learn to build relationships between data within R. 
